@@ -74,16 +74,6 @@
 
 ## 依赖
 
-如果使用我们com.dv.cloud框架构建 ，添加我们自己封装的依赖
-
-```xml
-<dependency>
-    <groupId>com.dv.cloud</groupId>
-    <artifactId>dv-cloud-stream-starter</artifactId>
-</dependency>
-```
-
-如果没有使用我们自己的框架可以直接引用，spring-cloud-stream 的包
 
 ```xml
 <dependency>
