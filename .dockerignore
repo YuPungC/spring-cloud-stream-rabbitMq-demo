@@ -1,0 +1,7 @@
+# Ignore everything
+**
+
+# Allow files and directories
+!dvp-base-service/target/*.jar
+!Dockerfile
+!startup.sh
